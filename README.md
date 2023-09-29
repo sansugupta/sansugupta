@@ -31,10 +31,6 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=sansugupta&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 <div align="center">
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
