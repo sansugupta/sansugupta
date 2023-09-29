@@ -36,6 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 <!-- Its main projects -->
+<h3 align="left">Main Projects:</h3>
 <p align="center">
   <a href="https://github.com/sansugupta/PythonJourney">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=PythonJourney" />
