@@ -26,15 +26,49 @@ You can use the website to generate badges: https://shields.io/
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IfLTsRZbBOEuhYOhyj38LxY-36wbBBNC/view?usp=sharing)
 
 - ⚡ Fun fact **I am Good in Fitness.**
+- 
+### Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNU%20Bash)
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20Python%20Learning-000)](https://github.com/sansugupta/PythonJourney)
+[![](https://img.shields.io/badge/-📝%20Shell%20Scripting-000)](https://github.com/sansugupta/Shell-Scripting)
+[![](https://img.shields.io/badge/-🗺%20Gossiper-000)](https://github.com/sansugupta/Gossiper)
+[![](https://img.shields.io/badge/-🛰%20Stock%20Screen-000)](https://github.com/sansugupta/Stocks-Screen)
+[![](https://img.shields.io/badge/-🔊%20SHINE-000)](https://github.com/sansugupta/SHINE)
+
 
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sansugupta&show_icons=true&locale=en&layout=compact" alt="sansugupta" /></p>
 
 ---
+
 <!-- Its main projects -->
 <h3 align="left">Main Projects:</h3>
 <p align="center">
