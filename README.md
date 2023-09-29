@@ -1,6 +1,6 @@
 <h1 align="center">Hey Fellas👋, I'm Sanskar Gupta</h1>
 <h3 align="center">A Passionate Cloud Native Developer.</h3>
-
+<img align="right" height="250" width="350" src="./assets/Devops.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="sansugupta" /> </p>
 
 - 🔭 I’m currently working on **DevOps Technologies.**
