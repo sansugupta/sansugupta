@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
-- 📫 How to reach me **Sanskargupta@gmail.com**
+- 📫 How to reach me **Sanskargupta966@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IfLTsRZbBOEuhYOhyj38LxY-36wbBBNC/view?usp=sharing](https://drive.google.com/file/d/1IfLTsRZbBOEuhYOhyj38LxY-36wbBBNC/view?usp=sharing)
 
