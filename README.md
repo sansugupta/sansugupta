@@ -1,7 +1,7 @@
-<h1 align="center">Hey Fellas👋, I'm Sanskar Gupta</h1>
-<h3 align="center">A Passionate Cloud Native Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Sanskar+Gupta.+;A+Passionate+Cloud+Native+Developer.;Feel+Free+to+Connect+me.;If+there+is+Anything.;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="sansugupta" /> </p>
+
 
 - 🔭 I’m currently working on **DevOps Technologies.**
 
