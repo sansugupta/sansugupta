@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevOps Technologies.**
 
-- Past Work Experiences [Demand Specialist - COGOPORT](Demand Specialist - COGOPORT)
+- Past Work Experiences [ Demand Specialist - COGOPORT ]
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
