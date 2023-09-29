@@ -50,9 +50,5 @@ You can use the website to generate badges: https://shields.io/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😄 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-<div align="center">
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
