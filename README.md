@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IfLTsRZbBOEuhYOhyj38LxY-36wbBBNC/view?usp=sharing)
 
 - ⚡ Fun fact **I am Good in Fitness.**
-- 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
