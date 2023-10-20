@@ -39,8 +39,6 @@ You can use the website to generate badges: https://shields.io/
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
 
 ### Technologies
 
