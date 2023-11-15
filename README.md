@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 📫 How to reach me **Sanskargupta966@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IfLTsRZbBOEuhYOhyj38LxY-36wbBBNC/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OeYLbSz6e64av1uS3dlesM5ZiJd2AJHC/view?usp=sharing)
 
 - ⚡ Fun fact **I am Good in Fitness.**
 
