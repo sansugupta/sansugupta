@@ -17,13 +17,13 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on **DevOps Technologies.**
 
-- Past Work Experiences [ Demand Specialist - COGOPORT ]
+- Past Work Experiences [ Cloud Application Developer  - Vinsys · InternshipT ]
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
 - 📫 How to reach me **Sanskargupta966@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OeYLbSz6e64av1uS3dlesM5ZiJd2AJHC/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1fLZDYOcxeiqxwNBtILUAKCrUZQT-c9oE/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Good in Fitness.**
 
