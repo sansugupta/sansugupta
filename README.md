@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on **DevOps Technologies.**
 
-- Past Work Experiences [ Cloud Application Developer  - Vinsys · InternshipT ]
+- Past Work Experiences [ Cloud Application Developer  - Vinsys · Internshipt ]
 
 - 💬 Ask me about **DevOps Tools and Cloud.**
 
