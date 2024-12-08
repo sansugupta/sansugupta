@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Sanskargupta966@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1khJF6qxHwbJD0WFJa6yAKMWamQQrQTCS/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1GeSgxgq3jobSoTjbwcxpefyYiCaxdo9F/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Good in Fitness**
 
