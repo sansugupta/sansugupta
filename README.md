@@ -83,8 +83,8 @@
   <a href="https://github.com/sansugupta/Shell-Scripting">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=Shell-Scripting" />
   </a>
-  <a href="https://github.com/sansugupta/three-tier-web-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=three-tier-web-app" />
+  <a href="https://github.com/sansugupta/Boardgame-CI-CD-Pipeline">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=Boardgame-CI-CD-Pipeline" />
   </a>
   <a href="https://github.com/sansugupta/Ruby-on-Rails-Application-Deployment">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=Ruby-on-Rails-Application-Deployment" />
@@ -93,6 +93,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sansugupta&repo=Terraform-Project" />
   </a>
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
