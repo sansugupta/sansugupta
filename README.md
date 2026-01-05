@@ -32,7 +32,6 @@
 ### 📫 Connect With Me
 - 💬 Ask me about **SRE Practices, Kubernetes, AWS, Observability, and CI/CD**
 - 📧 Email: **sanskargupta966@gmail.com**
-- 📄 Check my [Resume](https://drive.google.com/file/d/1dhadm2Scsdy5nvjU71QIN33dmTewpok5/view?usp=drive_link)
 - ⚡ Fun fact: **I am passionate about Fitness and building resilient systems**
 
 ---
