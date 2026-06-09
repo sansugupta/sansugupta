@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Sanskar+Gupta.+;Site+Reliability+%2F+DevOps+Engineer;3.6%2B+Years+in+Cloud%2C+Kubernetes+%26+Observability;National-Scale+IoT+%7C+GenAI+%7C+DevSecOps;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" height="280">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansugupta&label=Profile%20views&color=0e75b6&style=flat" alt="sansugupta" /> </p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sansugupta)
